@@ -122,7 +122,7 @@ cv2.destroyAllWindows()
 
 ### iii) RGB and BGR to YCrCb
 <br>
-![Uploading 3.png…]()
+
 <br>
 
 ### iv) Split and merge RGB Image
