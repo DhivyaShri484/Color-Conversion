@@ -117,21 +117,22 @@ cv2.destroyAllWindows()
 
 ### ii) HSV to RGB and BGR
 <br>
-![Uploading 2.png…]()
+<img width="1268" alt="2" src="https://user-images.githubusercontent.com/94505585/228149211-ee36f40e-533c-42eb-bd7a-1b083c0fec7e.png">
 <br>
 
 ### iii) RGB and BGR to YCrCb
 <br>
-
+<img width="1225" alt="3" src="https://user-images.githubusercontent.com/94505585/228149266-de83cfd5-b7ad-472f-94da-f23f1744e008.png">
 <br>
 
 ### iv) Split and merge RGB Image
 <br>
-
+<img width="1345" alt="4" src="https://user-images.githubusercontent.com/94505585/228149443-e868ebec-7c39-4ff1-9054-f6aed2627a33.png">
 <br>
 
 ### v) Split and merge HSV Image
 <br>
+<img width="1125" alt="5" src="https://user-images.githubusercontent.com/94505585/228149534-669aa460-c4cf-4b06-9731-5a765f366da3.png">
 <br>
 
 
